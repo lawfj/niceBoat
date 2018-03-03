@@ -2,3 +2,5 @@
 This is my first GitHub.
 
 我今天开始重新学习GitHub！
+
+修复了一个bug
