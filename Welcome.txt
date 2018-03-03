@@ -1,2 +1,4 @@
-Nice to meet you!
+﻿Nice to meet you!
 This is my first GitHub.
+
+我今天开始重新学习GitHub！
